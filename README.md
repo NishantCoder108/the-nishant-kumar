@@ -28,14 +28,19 @@
 * Github
 
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=thinkwithcode)
 
 
 
+### Projects
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=textutils)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=flipkart-ui)
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=rocket-news)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=polarishapp)
 
-
-
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=todoListApp)
 ### Social
 
 
